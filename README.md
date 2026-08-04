@@ -1,4 +1,7 @@
 ## Hi there 👋
+## Who am I
+
+Data Scientist & Machine Learning Engineer living at the intersection of GenAI, NLP, and healthcare data. I care about building AI that earns trust — not just AI that performs well in a demo
 
 <!--
 **Bhagii31/Bhagii31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
