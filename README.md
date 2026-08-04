@@ -1,19 +1,12 @@
 ## Hi there 👋
-## Who am I
+Data Scientist & Machine Learning Engineer living at the intersection of GenAI, NLP, and healthcare data. I care about building AI that earns trust — not just AI that performs well in a demo.
+🔭 What I'm working on
 
-Data Scientist & Machine Learning Engineer living at the intersection of GenAI, NLP, and healthcare data. I care about building AI that earns trust — not just AI that performs well in a demo
+Building retrieval-augmented systems that don't just answer questions, but show their work — surfacing what's true, what's changed, and what actually needs attention, instead of burying it in generated text. Focused on making AI outputs explainable and auditable, not black boxes.
+🛠️ Tools I use
 
-<!--
-**Bhagii31/Bhagii31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Modeling & Retrieval Python PyTorch Hugging Face Transformers LangChain FAISS Clinical BERT
 
-Here are some ideas to get you started:
+Deployment & MLOps FastAPI Docker Kubernetes MLflow AWS Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explainability & Monitoring SHAP LIME Evidently AI
