@@ -12,3 +12,7 @@ Modeling & Retrieval : Python PyTorch Hugging Face Transformers LangChain FAISS 
 Deployment & MLOps :  FastAPI Docker Kubernetes MLflow AWS Azure
 
 Explainability & Monitoring : SHAP LIME Evidently AI
+
+📫 How to reach me
+
+bhargavilinga03@gmail.com
